@@ -1,21 +1,5 @@
-# Journal-vibe-coding
+# journal-vibe-coding
 
 Je suis Anastasia en 2ème année d'UX UI.
 
 Ici, je note ce que j'apprends en vibe coding.
-
-## Qui je suis
-
-Etudiante en design, j'aime les interfaces sobres.
-
-## Ce que j'apprends
-
-- **Git** : garder l'historique de mon projet
-
-- **Github** : le partager en ligne
-
-- *Markdown* : écrire du texte mis en forme
-
-## Ma page
-
-[Voir ma page en ligne](https://youtu.be/dQw4w9WgXcQ?si=x2PSslYR08V_Pnaa)

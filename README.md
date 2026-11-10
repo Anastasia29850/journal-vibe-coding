@@ -1,4 +1,4 @@
-# journal-vibe-coding
+# Journal-vibe-coding
 
 Je suis Anastasia en 2ème année d'UX UI.
 
